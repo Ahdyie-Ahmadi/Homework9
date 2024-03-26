@@ -1,7 +1,7 @@
 # Homework 9
 This is homework for Scientific Computing
-## Exercise
-Temperature Table
+## Temperature Table
+
 Temperatures in units of Fahrenheit (F) can be converted to units of Celsius (C) using the following equation:
 ```math
 C_exact = (5/9) * (F - 32);
